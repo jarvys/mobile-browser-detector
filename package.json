@@ -1,0 +1,19 @@
+{
+  "name": "wechat-detector",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jarvys <yuhan534@126.com> (https://jarvys.github.io/)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.10.4",
+    "modernizr": "^3.0.0-pre",
+    "raven-js": "^1.1.11"
+  },
+  "devDependencies": {
+    "coffeeify": "^1.0.0"
+  }
+}
