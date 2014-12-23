@@ -1,0 +1,17 @@
+{
+  "name": "mobile-browser-detector",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jarvys/mobile-browser-detector",
+  "authors": [
+    "jarvys <yuhan534@126.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "components",
+    "test",
+    "tests"
+  ]
+}

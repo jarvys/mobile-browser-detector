@@ -1,0 +1,10 @@
+<script>
+	navigator.vibrate = navigator.vibrate || navigator.webkitVibrate || navigator.mozVibrate || navigator.msVibrate;
+ 
+	if (navigator.vibrate) {
+		navigator.vibrate(1000);
+		alert('OK');
+	} else {
+		alert('Fail');
+	}
+</script>
